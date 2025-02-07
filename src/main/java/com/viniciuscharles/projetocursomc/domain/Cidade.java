@@ -76,6 +76,4 @@ public class Cidade implements Serializable {
 		Cidade other = (Cidade) obj;
 		return Objects.equals(id, other.id);
 	}
-	
-	
 }

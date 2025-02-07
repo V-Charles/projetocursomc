@@ -130,6 +130,4 @@ public class Endereco implements Serializable{
 		Endereco other = (Endereco) obj;
 		return Objects.equals(id, other.id);
 	}
-	
-	
 }
